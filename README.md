@@ -24,8 +24,11 @@ But we didn’t plan for runners that are exactly 18! We’ll handle that by the
 
 ## Author
 
-### Aaron Long
+### John Sutherland
 
-- [GitHub Profile](https://github.com/aaronlng/)
+- https://www.codecademy.com/courses/introduction-to-javascript/projects/race-day
 
-- Twitter: [@aaronlng](https://twitter.com/aaronlng)
+### Method 
+- Math library - Math.random, math.floor
+- Control flow statement
+- const, if, else if, &&, !
