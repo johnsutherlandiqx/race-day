@@ -28,6 +28,9 @@ But we didn’t plan for runners that are exactly 18! We’ll handle that by the
 
 - https://www.codecademy.com/courses/introduction-to-javascript/projects/race-day
 
+### Aim
+- Random number generator
+
 ### Method 
 - Math library - Math.random, math.floor
 - Control flow statement
